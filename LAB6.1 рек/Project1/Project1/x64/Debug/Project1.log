@@ -1,0 +1,3 @@
+﻿  с++.cpp
+D:\LAB6.1 рек\Project1\Project1\с++.cpp(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> D:\LAB6.1 рек\Project1\x64\Debug\Project1.exe

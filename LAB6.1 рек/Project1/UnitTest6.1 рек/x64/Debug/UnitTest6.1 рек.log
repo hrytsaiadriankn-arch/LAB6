@@ -1,0 +1,6 @@
+﻿     Creating library D:\LAB6.1 рек\Project1\x64\Debug\UnitTest6.1 рек.lib and object D:\LAB6.1 рек\Project1\x64\Debug\UnitTest6.1 рек.exp
+LINK : warning LNK4232: name UnitTest6.1 рек.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+UnitTest6.1 рек.obj : error LNK2019: unresolved external symbol "int __cdecl countRec(int * const,int,int)" (?countRec@@YAHQEAHHH@Z) referenced in function "public: void __cdecl UnitTestRecursive::UnitTestRecursive::TestCountRec(void)" (?TestCountRec@UnitTestRecursive@1@QEAAXXZ)
+UnitTest6.1 рек.obj : error LNK2019: unresolved external symbol "int __cdecl sumRec(int * const,int,int)" (?sumRec@@YAHQEAHHH@Z) referenced in function "public: void __cdecl UnitTestRecursive::UnitTestRecursive::TestSumRec(void)" (?TestSumRec@UnitTestRecursive@1@QEAAXXZ)
+UnitTest6.1 рек.obj : error LNK2019: unresolved external symbol "void __cdecl zeroRec(int * const,int,int)" (?zeroRec@@YAXQEAHHH@Z) referenced in function "public: void __cdecl UnitTestRecursive::UnitTestRecursive::TestZeroRec(void)" (?TestZeroRec@UnitTestRecursive@1@QEAAXXZ)
+D:\LAB6.1 рек\Project1\x64\Debug\UnitTest6.1 рек.dll : fatal error LNK1120: 3 unresolved externals
